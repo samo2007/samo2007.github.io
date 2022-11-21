@@ -1,0 +1,24 @@
+html{
+  height: 100%;
+}
+body{
+  background-image: url(img/realistic-motion-neon-lights-background_52683-65167\ \(1\).jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+th, td {
+    border: 1px solid black;
+    padding: 15px;
+  }
+table{
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(img/images\ \(1\).jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
